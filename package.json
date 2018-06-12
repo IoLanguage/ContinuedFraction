@@ -1,9 +1,9 @@
 {
   "name":         "ContinuedFraction",
   "version":      "0.1",
-  "description":  "My cool new project.",
+  "description":  "",
   "author":       "",
-  "website":      "http://ContinuedFraction-project.org/",
+  "website":      "http://iolanguage.org/",
   "readme":       "README.md",
   "protos":       ["ContinuedFraction"],
   "dependencies": {
