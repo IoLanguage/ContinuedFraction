@@ -1,0 +1,15 @@
+{
+  "name":         "ContinuedFraction",
+  "version":      "0.1",
+  "description":  "My cool new project.",
+  "author":       "",
+  "website":      "http://ContinuedFraction-project.org/",
+  "readme":       "README.md",
+  "protos":       ["ContinuedFraction"],
+  "dependencies": {
+    "libs":     [],
+    "headers":  [],
+    "protos":   [],
+    "packages": []
+  }
+}
